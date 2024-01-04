@@ -2,13 +2,19 @@
 
 ## Glad to see here!
 
-I'm software enginner in Tokyo working for ZUU.co.ltd..
+Enthusiastic Software Engineer specializing in building diverse web media with a proprietary Content Management System at ZUU.co.ltd., Tokyo. Passionate about enhancing CMS functionality to provide seamless user experiences.
 
-My interests are:
+Proficient in:
 
-- Golang
-- Building my businesses
-- Finances, Accounting, Investing
+- Go Programming
+- Google Cloud Platform
+
+Currently delving into:
+
+- Entrepreneurship and business development 
+- Finances, Accounting, and strategic investments
+
+My consistent pursuit of learning and problem-solving in the tech world has resulted in enriched knowledge and technical skills that can benefit a dynamic tech team. Let's collaborate to build innovative projects that can drive the digital transformation journey ahead.
 
 See my resume: 
 
